@@ -1,0 +1,72 @@
+acupuncturist
+antique store
+bakery
+bed and breakfast
+cannabis store
+carpet cleaner
+coffee shop
+contractor
+cosmetic surgery
+custom home builder
+custom tshirt store
+dentist
+electrician
+esthetician
+fence contractor
+flooring
+golf course
+google maps
+gym
+hair salon
+hookah bar
+house cleaner
+hvac
+interior designer
+lawn care service
+locksmith
+massage therapist
+mechanic
+medical spa
+nail salon
+optometrist
+paintball
+personal trainer
+pest control
+pet groomer
+plumber
+roofing
+self defense
+therapist
+tobacco shop
+towing
+used cars
+vaporizer store
+wedding planner
+window tinting service
+yoga instructor
+accounting firm
+auto repair shop
+barber shop
+bookstore
+boutique
+car detailing
+chiropractor
+concrete
+consultant
+driveway
+furniture store
+gate installation
+herbal shop
+jewelry
+kitchen remodeling
+lounge
+movers
+painter
+photographer
+pressure washing
+real estate agent
+restaurant
+smoke shop
+tattoo shop
+tech repair
+wine shop"
